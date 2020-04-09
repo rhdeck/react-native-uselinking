@@ -1,0 +1,27 @@
+{
+  "name": "react-native-uselinking",
+  "version": "1.0.0",
+  "description": "Hook for linking support in react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhdeck/react-native-uselinking.git"
+  },
+  "keywords": [
+    "react-native",
+    "linking"
+  ],
+  "author": "Ray Deck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhdeck/react-native-uselinking/issues"
+  },
+  "homepage": "https://github.com/rhdeck/react-native-uselinking#readme",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.62.2"
+  }
+}
